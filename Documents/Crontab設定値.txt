@@ -1,0 +1,14 @@
+# 環境測定PHP - crontab設定値 Start
+#   環境測定PHP - センサー値　登録
+*/5 * * * * php /var/www/html/PHP/regist_data.php
+#   環境測定PHP - サマリ月　登録
+5 * * * * php /var/www/html/PHP/aggregate_data.php 3
+#   環境測定PHP - サマリ日　登録
+5 0 * * * php /var/www/html/PHP/aggregate_data.php 2
+#   環境測定PHP - サマリ時間　登録
+10 0 * * * php /var/www/html/PHP/aggregate_data.php 1
+#   環境測定PHP - 計測結果アップロード
+30 */3 * * * bash /opt/expS3_view_environment_data/expS3_view_environment_data.sh
+#   環境測定PHP - データベースバックアップ取得
+0 0 * * * bash /opt/expS3_upload_database_data/expS3_upload_database_data.sh
+# 環境測定PHP - crontab設定値 End
