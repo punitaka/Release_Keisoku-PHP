@@ -88,7 +88,7 @@
     $sql_H .= ")														";
     $sql_H .= "SELECT													";
     $sql_H .= "	DATE_FORMAT(d_datetime, '%Y%m%d%H') AS 'v_YYYYMMDDHH',	";
-    $sql_H .= "	DATE_FORMAT(d_datetime, '%H') AS 'v_YYYYMMDDHH',		";
+    $sql_H .= "	DATE_FORMAT(d_datetime, '%H') AS 'v_HH',		        ";
     $sql_H .= "	avg(d_temperature) AS d_temperature,					";
     $sql_H .= "	avg(d_humidity) AS d_humidity,							";
     $sql_H .= "	avg(d_pressure) AS d_pressure,							";
