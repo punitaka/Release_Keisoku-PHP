@@ -363,7 +363,7 @@
     <header id="masthead" class="site-header sp-part-top sp-header2" role="banner">
       <div id="masthead-inner" class="sp-part-top sp-header-inner">
         <div id="sp-site-branding2-1" class="sp-part-top sp-site-branding2">
-          <h1 class="site-title sp-part-top sp-site-title" id=""><a href="../index.html">くまもと山鹿 吉田農園</a></h1>
+          <h1 class="site-title sp-part-top sp-site-title" id=""><a href="../index.html">くまもと山鹿 吉田農園 熊本県山鹿市の小さな農園</a></h1>
           <h2 class="site-description sp-part-top sp-catchphrase" id="">くまもと山鹿 吉田農園は熊本県山鹿市にある中山間地の小さな農園です。</h2>
           <div class="extra sp-part-top sp-site-branding-extra" style="min-height: 20px" id="sp-site-branding-extra-1"></div>
         </div>
@@ -378,8 +378,8 @@
             <li class="menu-item"><a href="../index.html">トップページ</a>
               <li class="menu-item"><a href="../gallery.html">農園ギャラリー</a>
                 <li class="menu-item"><a href="../iot.html">ちょこっとIT</a>
-		<li class="menu-item"><a href="../okome.html">お米の販売</a>
-                <li class="menu-item"><a href="../chestnut.html">無農薬 栗の販売</a></ul>
+                  <li class="menu-item current_page_item"><a href="../okome2022.html">特別栽培米 お米の販売</a>
+                    <li class="menu-item"><a href="../chestnut.html">自然栽培 栗の販売</a></ul>
         </nav>
         <div id="breadcrumb-list" itemscope="" itemtype="http://schema.org/BreadcrumbList" class="sp-part-top sp-bread-crumb">
           <div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="../index.html"><span itemprop="name">トップ</span></a>
@@ -435,9 +435,9 @@
             <li class="menu-item"><a href="../index.html">トップページ</a>
               <li class="menu-item"><a href="../gallery.html">農園ギャラリー</a>
                 <li class="menu-item"><a href="../iot.html">ちょこっとIT</a>
-		<li class="menu-item"><a href="../okome.html">お米の販売</a>
-                <li class="menu-item"><a href="../chestnut.html">無農薬 栗の販売</a>
-                <li class="menu-item"><a href="../privacy.html">プライバシーポリシー</a></ul>
+                  <li class="menu-item current_page_item"><a href="../okome2022.html">特別栽培米 お米の販売</a>
+                    <li class="menu-item"><a href="../chestnut.html">自然栽培 栗の販売</a>
+                      <li class="menu-item"><a href="../privacy.html">プライバシーポリシー</a></ul>
         </nav>
         <div id="sp-block-container-6" class="sp-part-top sp-block-container">
           <p class="copyright paragraph">Copyright &copy; Kumamoto Yamaga Yoshida Farm, All rights reserved.</p>
