@@ -43,7 +43,7 @@ https://youtube.com/playlist?list=PLWImbCHDGxLpZNRsIzMHUKGW7EpCRgF5-
 https://wiki.seeedstudio.com/Wio_Node/
 - Grove - Temperature&Humidity Sensor Pro(DHT22)  
 https://wiki.seeedstudio.com/Grove-Temperature_and_Humidity_Sensor_Pro/
-- **後に非採用**Grove - 温度および湿度センサー (DHT11)   
+- **[後に非採用]**Grove - 温度および湿度センサー (DHT11)   
 マイナスの気温が測れなかったので、上記DHT22に後で変えました  
 https://jp.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DHT11.html
 - Grove 光センサー v1.2 - Grove Light Sensor
