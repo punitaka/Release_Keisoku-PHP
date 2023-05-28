@@ -25,11 +25,11 @@
 スマホでご覧いただく場合は、横画面にしてから開いた方がグラフが綺麗です。  
 https://kumamoto-yoshida-farm.net/iot.html  
   
-内容は、当レポジトリにある文書
+  
+仕組みの全貌は、下記文書をまずご覧いただくと把握しやすいと思います。  
 - /Documents/Keisoku-PHP_概要.pptx
 - /Documents/機能一覧.xlsx
 
-をまずご覧いただくと把握しやすいと思います。  
   
 ****
 
