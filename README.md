@@ -23,8 +23,13 @@
   
 測定結果は、ホームページで公開しています。「測定結果」ボタンをクリック  
 スマホでご覧いただく場合は、横画面にしてから開いた方がグラフが綺麗です。  
-https://kumamoto-yoshida-farm.net/iot.html
-
+https://kumamoto-yoshida-farm.net/iot.html  
+  
+内容は、当レポジトリにある文書
+- /Documents/Keisoku-PHP_概要.pptx
+- /Documents/機能一覧.xlsx
+をご覧いただくと把握しやすいと思います。  
+  
 ****
 
 ## 仕組みの解説
