@@ -46,7 +46,7 @@ https://wiki.seeedstudio.com/Grove-Temperature_and_Humidity_Sensor_Pro/
 - **[後に非採用]**Grove - 温度および湿度センサー (DHT11)   
 マイナスの気温が測れなかったので、上記DHT22に後で変えました  
 https://jp.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DHT11.html
-- Grove 光センサー v1.2 - Grove Light Sensor
+- Grove 光センサー v1.2 - Grove Light Sensor  
 https://jp.seeedstudio.com/Grove-Light-Sensor-v1-2-LS06-S-phototransistor.html
 - Raspberry Pi4  
 https://www.raspberrypi.com/
