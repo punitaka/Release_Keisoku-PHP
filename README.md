@@ -34,8 +34,8 @@ https://kumamoto-yoshida-farm.net/iot.html
 ****
 
 ## 仕組みの解説
-Youtubeで紹介しています。ぜひご覧ください。 
-チャンネル登録も、是非宜しくお願い致します。
+Youtubeで紹介しています。ぜひご覧ください。  
+チャンネル登録も是非、宜しくお願い致します。
 
 ◇Youtube再生リスト　【IoT/IT】環境センサー計測・表示装置  
 https://youtube.com/playlist?list=PLWImbCHDGxLpZNRsIzMHUKGW7EpCRgF5-  
