@@ -27,7 +27,8 @@ https://kumamoto-yoshida-farm.net/iot.html
   
 内容は、当レポジトリにある文書
 - /Documents/Keisoku-PHP_概要.pptx
-- /Documents/機能一覧.xlsx  
+- /Documents/機能一覧.xlsx
+
 をまずご覧いただくと把握しやすいと思います。  
   
 ****
