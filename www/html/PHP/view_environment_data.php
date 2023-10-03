@@ -377,9 +377,9 @@
           <ul id="menu-mainnav">
             <li class="menu-item"><a href="../index.html">トップページ</a>
               <li class="menu-item"><a href="../gallery.html">農園ギャラリー</a>
-                <li class="menu-item"><a href="../iot.html">ちょこっとIT</a>
-                  <li class="menu-item current_page_item"><a href="../okome2022.html">特別栽培米 お米の販売</a>
-                    <li class="menu-item"><a href="../chestnut.html">自然栽培 栗の販売</a></ul>
+                <li class="menu-item current_page_item"><a href="../iot.html">ちょこっとIT</a>
+                  <li class="menu-item"><a href="../okome2023.html">特別栽培米 お米の販売</a>
+                    <li class="menu-item"><a href="../chestnut2023.html">自然栽培 和栗の販売</a></ul>
         </nav>
         <div id="breadcrumb-list" itemscope="" itemtype="http://schema.org/BreadcrumbList" class="sp-part-top sp-bread-crumb">
           <div itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a itemprop="item" href="../index.html"><span itemprop="name">トップ</span></a>
@@ -434,9 +434,9 @@
           <ul id="menu-mainnav">
             <li class="menu-item"><a href="../index.html">トップページ</a>
               <li class="menu-item"><a href="../gallery.html">農園ギャラリー</a>
-                <li class="menu-item"><a href="../iot.html">ちょこっとIT</a>
-                  <li class="menu-item current_page_item"><a href="../okome2022.html">特別栽培米 お米の販売</a>
-                    <li class="menu-item"><a href="../chestnut.html">自然栽培 栗の販売</a>
+                <li class="menu-item current_page_item"><a href="../iot.html">ちょこっとIT</a>
+                  <li class="menu-item"><a href="../okome2023.html">特別栽培米 お米の販売</a>
+                    <li class="menu-item"><a href="../chestnut2023.html">自然栽培 和栗の販売</a></ul>
                       <li class="menu-item"><a href="../privacy.html">プライバシーポリシー</a></ul>
         </nav>
         <div id="sp-block-container-6" class="sp-part-top sp-block-container">
